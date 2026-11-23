@@ -1,4 +1,4 @@
-# Information Everywhere
+# Solution Hygiene LLC
 
 ![Solutions Hygiene LLC Infographic](./Solutions%20Hygiene%20LLC%20infographic.png)
 
